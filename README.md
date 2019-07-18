@@ -40,6 +40,7 @@ If you are not familiar with Google Apps Script, here are some useful official r
 1. Create a new sheet in a new or an exist Google spreadsheet.
 2. Set the permission of the Google spreadsheet to "everyone with the link can edit".
 3. Modify the parameters in `config.gs:SECTION_CASE` accordingly.
+4. Create a trigger for function `checkSectionCaseStatus`.
 
 ## Contributions
 Since I am not a Javascript expert, you are welcome to submit pull requets to make this project better.
