@@ -4,7 +4,7 @@ A simple Google App Script that checks the status of cases being processed by US
 ## Introduction
 This script has two functions for tracking the status of one case and a section of cases, respectively.
 You can simply clone this project as a Google Apps Script, deploy the project and create triggers to
-keep tracking the case status and receive the notify about the status change.
+keep tracking the case status and receive the notification about the status change.
 
 If you are not familiar with Google Apps Script, here are some useful official references:
 * https://developers.google.com/apps-script/overview
